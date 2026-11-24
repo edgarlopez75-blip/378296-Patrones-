@@ -10,3 +10,10 @@ El cliente es una empresa de logistica y reparto. Su pregunta:¿en que estado co
 
 ## Consultas 
 Estan en la carpeta consultas. La A es de la base postgres (DENUE) y la B de la base lin_news (precios). Cada archivo tiene un comentario al inicio que dice para que sirve y que resultado dio.
+
+## Problema de calidad encontrados 
+- El DENUE tiene cada establecimiento repetido 32 veces.
+- El DENUE solo tiene manufactura.
+- Los precios de combustible valen 0.01 en las dos tablas.
+- Hay letras dañadas en los npmbres
+- Hay 39 fechas futuras en precio_referencia.
