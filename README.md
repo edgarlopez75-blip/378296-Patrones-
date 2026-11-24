@@ -1,4 +1,4 @@
-Proyecto de inteligencia de negocios. Analizo datos del DENUE y de precios de combustible para ayudar a decidir donde instalar un centro de distribucion en el norte y centro de Mexico.
+## Proyecto de inteligencia de negocios. Analizo datos del DENUE y de precios de combustible para ayudar a decidir donde instalar un centro de distribucion en el norte y centro de Mexico. ## 
 
 ## Contexto
 El cliente es una empresa de logistica y reparto. Su pregunta:¿en que estado conviene instalar un centro de distribucion para reducir el costo del combustible y atender la mayor concentracion de establecimientos?
