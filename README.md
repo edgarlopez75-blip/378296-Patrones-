@@ -7,3 +7,6 @@ El cliente es una empresa de logistica y reparto. Su pregunta:¿en que estado co
 - denue_inegi_oficial (INEGI): establecimientos de manufactura.
 - precio_gasolina_estado: precios de combustible por estado.
 - precio_referencia: dolar y precios nacionales,serie sintetica
+
+## Consultas 
+Estan en la carpeta consultas. La A es de la base postgres (DENUE) y la B de la base lin_news (precios). Cada archivo tiene un comentario al inicio que dice para que sirve y que resultado dio.
