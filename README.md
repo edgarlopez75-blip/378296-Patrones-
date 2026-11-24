@@ -40,7 +40,7 @@ los establecimientos se concentran en pocos estados
 - Interpretación: hay mucho más mercado de manufactura en el centro y sur que en el norte, y dentro del norte Nuevo León es el más grande. 
 - Técnica utilizada: conteo y agrupación por estado, con porcentajes. 
 
-##Hallazgo 4: 
+## Hallazgo 4: 
 casi todos los establecimientos son muy pequeños 
 - ¿Qué encontramos? La gran mayoría de los establecimientos tiene muy pocas personas. 
 - Evidencia: 87.9% tiene de 0 a 5 personas, 6.0% de 6 a 10, 3.1% de 11 a 30, y sólo 0.8% tiene 251 o más. 
